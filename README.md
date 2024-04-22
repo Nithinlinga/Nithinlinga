@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithinlinga&label=Profile%20views&color=0e75b6&style=flat" alt="nithinlinga" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinlinga" alt="nithinlinga" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/nithinkohli5" target="blank"><img src="https://img.shields.io/twitter/follow/nithinkohli5?logo=twitter&style=for-the-badge" alt="nithinkohli5" /></a> </p>
 
 - 🔭 I’m currently working on [eCommerce website using mern stack](https://github.com/Nithinlinga/eCommerce-Product-Showcase-Using-MERN-Stack)
@@ -37,3 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithinlinga&show_icons=true&locale=en" alt="nithinlinga" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithinlinga&" alt="nithinlinga" /></p>
