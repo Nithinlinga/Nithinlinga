@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **nithinlinga2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Px6_9Ht2G4PBqnauLgPPZvzPG53FhT1S/view?usp=sharing](https://drive.google.com/file/d/1Px6_9Ht2G4PBqnauLgPPZvzPG53FhT1S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SAG47yUNt5WARsspqu39CVFCAO5UG8w7?usp=sharing](https://drive.google.com/drive/folders/1SAG47yUNt5WARsspqu39CVFCAO5UG8w7?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
