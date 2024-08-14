@@ -25,7 +25,6 @@
 <p align="left">
 <a href="https://twitter.com/nithinkohli5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nithinkohli5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nithin-linga-09235a226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin-linga-09235a226" height="30" width="40" /></a>
-<a href="https://codesandbox.com/nithinlinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="nithinlinga" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cu_21bcs6862" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_21bcs6862" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nithinlinga2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nithinlinga2" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nithinlinga2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithinlinga2" height="30" width="40" /></a>
