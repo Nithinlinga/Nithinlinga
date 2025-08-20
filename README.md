@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nithinlinga2@gmail.com**
 
-- 📄 Know about my experiences [https://nithinlinga.vercel.app/](https://nithinlinga.vercel.app/)
+- 📄 Know about my experiences <a href="https://nithinlinga.vercel.app/" target="blank">Nithinlinga</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
