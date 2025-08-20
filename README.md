@@ -7,19 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/nithinkohli5" target="blank"><img src="https://img.shields.io/twitter/follow/nithinkohli5?logo=twitter&style=for-the-badge" alt="nithinkohli5" /></a> </p>
 
-- 🔭 I’m currently working on [eCommerce website using mern stack](https://github.com/Nithinlinga/eCommerce-Product-Showcase-Using-MERN-Stack)
-
-- 🌱 I’m currently learning **Nextjs**
-
-- 👯 I’m looking to collaborate on [student result management system](https://github.com/Nithinlinga/Student-Result-Management-System)
+- 🌱 I’m currently learning **Java SpringBoot**
 
 - 📝 I regularly write articles on [https://twitter.com/nithinkohli5](https://twitter.com/nithinkohli5)
 
-- 💬 Ask me about **react, JavaScript**
+- 💬 Ask me about **react, JavaScript, TypeScript**
 
 - 📫 How to reach me **nithinlinga2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SAG47yUNt5WARsspqu39CVFCAO5UG8w7?usp=sharing](https://drive.google.com/drive/folders/1SAG47yUNt5WARsspqu39CVFCAO5UG8w7?usp=sharing)
+- 📄 Know about my experiences [https://nithinlinga.vercel.app/](https://nithinlinga.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
