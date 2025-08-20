@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nithinlinga" alt="nithinlinga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/nithinkohli5" target="blank"><img src="https://img.shields.io/twitter/follow/nithinkohli5?logo=twitter&style=for-the-badge" alt="nithinkohli5" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nithinkohli5" target="_blank"><img src="https://img.shields.io/twitter/follow/nithinkohli5?logo=twitter&style=for-the-badge" alt="nithinkohli5" /></a> </p>
 
 - 🌱 I’m currently learning **Java SpringBoot**
 
@@ -15,15 +15,15 @@
 
 - 📫 How to reach me **nithinlinga2@gmail.com**
 
-- 📄 Know about my experiences <a href="https://nithinlinga.vercel.app/" target="blank">Nithinlinga</a>
+- 📄 Know about my experiences <a href="https://nithinlinga.vercel.app/" target="_blank">Nithinlinga</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nithinkohli5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nithinkohli5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nithin-linga-09235a226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin-linga-09235a226" height="30" width="40" /></a>
+<a href="https://twitter.com/nithinkohli5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nithinkohli5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nithin-linga-09235a226" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithin-linga-09235a226" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/cu_21bcs6862" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cu_21bcs6862" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nithinlinga2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nithinlinga2" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nithinlinga2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithinlinga2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nithinlinga2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nithinlinga2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nithinlinga2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nithinlinga2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nithinlbx1h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nithinlbx1h" height="30" width="40" /></a>
 </p>
 
